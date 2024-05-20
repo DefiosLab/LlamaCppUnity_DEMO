@@ -1,5 +1,9 @@
 # LlamaCppUnity_DEMO
 ユニティちゃんと簡単な会話ができるデモアプリです。  
+Releaseページからダウンロードできます。
+
+[![](https://img.youtube.com/vi/YAPNvy4gD-Y/0.jpg)](https://www.youtube.com/watch?v=YAPNvy4gD-Y)
+
 モデルは[`ELYZA-japanese-Llama-2-7b`の2bitモデル](https://huggingface.co/mmnga/ELYZA-japanese-Llama-2-7b-instruct-gguf/tree/main)を使用しています。  
 GGUFファイルはアプリ初回起動時に別途ダウンロードされます。  
 
